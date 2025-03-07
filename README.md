@@ -10,18 +10,18 @@ ps:据我所知应该是独创，大部分完成的都是用的往届代码:(
 
 ### 结果展示：
 
-![image-20241102235930484](E:\Typora\image-20241102235930484.png)
+![image-20241102235930484](https://github.com/fhp-transient/Openflipper-Boolean/blob/master/result/origin.png)
 
 #### Union
 
-![image-20241103000008868](E:\Typora\image-20241103000008868.png)
+![image-20241103000008868](https://github.com/fhp-transient/Openflipper-Boolean/blob/master/result/Union.png)
 
 #### intersection
 
-![image-20241103000055528](E:\Typora\image-20241103000055528.png)
+![image-20241103000055528](https://github.com/fhp-transient/Openflipper-Boolean/blob/master/result/intersection.png)
 
 #### subtraction
 
-![image-20241103000118673](E:\Typora\image-20241103000118673.png)
+![image-20241103000118673](https://github.com/fhp-transient/Openflipper-Boolean/blob/master/result/subtraction.png)
 
 经验证是没有问题的。
